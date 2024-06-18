@@ -1,0 +1,8 @@
+Output 01
+1 2 3 4 5 6 9 9
+Output 02
+10
+Output 03
+1 1 2 3 4 8
+Output 04
+1 2 3 4 5 6 7

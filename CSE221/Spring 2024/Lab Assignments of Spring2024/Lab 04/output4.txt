@@ -1,0 +1,10 @@
+Output 01
+NO
+Output 02
+YES
+Output 03
+NO
+Output 04
+NO
+Output 05
+YES
