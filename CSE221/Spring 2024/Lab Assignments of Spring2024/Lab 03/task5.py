@@ -9,7 +9,10 @@ def quickSort(A, p, r):
         quickSort(A, q+1, r)
 
 
+
 def partition(A, p, r):
+
+    # Taking Last elemet as pivot
     x = A[r]
     i = p-1
     for j in range(p, r):
@@ -22,6 +25,34 @@ def partition(A, p, r):
     A[i+1] = A[r]
     A[r] = temp2
     return i + 1
+
+    # Taking first Element as Pivot
+    # x = A[p]
+    # i = p+1
+    # for j in range(p+1, r+1):
+    #     if A[j] < x:
+            
+    #         temp = A[i]
+    #         A[i] = A[j]
+    #         A[j] = temp
+    #         i  += 1
+    # A[p], A[i-1] = A[i-1], A[p]
+    # return i-1
+
+    # Taking Mid element as pivot
+    # mid = (p+r)//2
+    # A[p], A[mid] = A[mid], A[p]
+    # x = A[p]
+    # i = p+1
+    # for j in range(p+1, r+1):
+    #     if A[j] < x:
+            
+    #         temp = A[i]
+    #         A[i] = A[j]
+    #         A[j] = temp
+    #         i  += 1
+    # A[p], A[i-1] = A[i-1], A[p]
+    # return i-1
 
 # Input 01
 test = int(inp.readline())
