@@ -1,7 +1,7 @@
 # BRACU-CSE330
 
-BRACU CSE330 Labs & Assignments & Quiz Solutions (Fall 2022). <br> <br>
-This are the Labs & Assignments codes for CSE 330: Numerical Method. There are lots of way to Solve this Problems. I am trying my best. If there are Any Problem in Solution let Me know.
+BRACU CSE330 Labs & Assignments & Quiz Solutions. <br> <br>
+These are the Labs & Assignments codes for CSE 330: Numerical Method. There are lots of ways to Solve these Problems. I am trying my best. If there is Any Problem with the Solution let Me know.
 
 <h2>Topics</h2>
   <ul>
